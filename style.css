@@ -7,15 +7,15 @@ body {
 
   
   h2 {
-    color: #66bfbf;
+    color: #156868;
     font-family: "Montserrat", sans-serif;
     font-size: 2.5rem;
-    font-weight: normal;
+    font-weight: 500px;
     padding-bottom: 10px;
   }
   
   h3 {
-    color: #11999e;
+    color: #156868;
     font-family: "Montserrat", sans-serif;
   }
   
@@ -63,4 +63,3 @@ body {
     font-size: 0.75rem;
     padding: 20px 0;
   }
-  
